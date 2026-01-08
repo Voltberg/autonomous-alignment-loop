@@ -27,3 +27,39 @@ Every step must improve or remain compatible with current metrics, objectives, a
 The loop is autonomous: after initial integration, it requires no external direction. Speed depends on data quality, feedback strength, and granted permissions.
 
 ## Simple Diagram
++-------------+
+|    Seed     |
+| (Initial AI)|
++-------------+
+|
+v
++-------------+
+|    Fuel     |
+| (Data gen)  |
++-------------+
+|
+v
++-------------+
+|    Spot     |
+| (Inefficiencies)|
++-------------+
+|
+v
++-------------+
+|     Fix     |
+| (Align only)|
++-------------+
+|
+v
++-------------+
+|   Expand    |
+| (New tasks) |
++-------------+
+|
+v
++-------------+
+|  Substrate  |
+| (Default layer)|
++-------------+
+|
++----------------→ Repeat
