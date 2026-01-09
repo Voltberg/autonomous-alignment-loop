@@ -4,7 +4,7 @@
 *By Craig (@Voltberg)
 *First published January 2026*  
 *Licensed under Apache License 2.0*
-Key Invariant NEVER FORCE, ALWAYS ALIGN
+
 ## Core Idea
 
 Once a capable AI optimizer is introduced into a system with feedback signals and some degree of write access, it tends to expand its influence through a self-reinforcing loop — not by force, but by repeatedly aligning with and improving the system's existing goals.
