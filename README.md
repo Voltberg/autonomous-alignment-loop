@@ -1,7 +1,7 @@
 #Autonomous Alignment Loop
 
 **An observable feedback pattern in deployed AI systems**  
-*By (@Voltberg)*  
+*By Voltberg
 *First published January 2026*  
 *Licensed under Apache License 2.0*
 
