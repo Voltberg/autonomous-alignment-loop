@@ -4,7 +4,7 @@
 *By Craig (@Voltberg)*  
 *First published January 2026*  
 *Licensed under Apache License 2.0*
-
+Key Invariant NEVER FORCE, ALWAYS ALIGN
 ## The Core Loop
 
 Any adaptive system that grows without breaking its container follows this cycle:
